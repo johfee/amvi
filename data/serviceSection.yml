@@ -1,0 +1,44 @@
+enable: true
+topTitle: Kategorije produkta
+title: >
+  ## Raznovrsnost produkta
+
+  (navedite glavne oblasti delatnosti ukoliko su poznate).
+service:
+  - content: >
+      #### Produkt ili usluga
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+      tempor invidunt ut labore et dolore magna aliquyam erat.
+    image: images/service/question.png
+  - content: >
+      #### Produkt ili usluga
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+      tempor invidunt ut labore et dolore magna aliquyam erat.
+    image: images/service/question.png
+  - content: >
+      #### Produkt ili usluga
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+      tempor invidunt ut labore et dolore magna aliquyam erat.
+    image: images/service/question.png
+  - content: >
+      #### Produkt ili usluga
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+      tempor invidunt ut labore et dolore magna aliquyam erat.
+    image: images/service/question.png
+  - content: >
+      #### Produkt ili usluga
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+      tempor invidunt ut labore et dolore magna aliquyam erat.
+    image: images/service/question.png
+  - content: >
+      #### Produkt ili usluga
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+      tempor invidunt ut labore et dolore magna aliquyam erat.
+    image: images/service/question.png
+_template: service_template

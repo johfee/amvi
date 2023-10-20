@@ -1,0 +1,20 @@
+main:
+  - name: Početna strana
+    url: ""
+    weight: 1
+  - name: Katalozi
+    url: "#service"
+    weight: 2
+  - name: Usluge
+    url: "#resume"
+    weight: 3
+  - name: O nama
+    url: "#about"
+    weight: 4
+sitemap:
+  - name: Početna strana
+    url: "/"
+    weight: 1
+  - name: Kontaktirajte nas
+    url: "contact"
+    weight: 2

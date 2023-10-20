@@ -1,0 +1,8 @@
+{
+  "name": "AMVI Group",
+  "short_name": "AMVI Group",
+  
+  "theme_color": "#3ac58d",
+  "background_color": "#ffffff",
+  "display": "standalone"
+}

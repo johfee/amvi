@@ -1,0 +1,83 @@
+titleSeparator: ""
+titleAddition: PROFESSIONAL SOLUTIONS
+description: >-
+images:
+  - favicon.ico
+ogLocale: en_US
+titleHome: AMVI Group
+twitterSite: ""
+twitterCreator: ""
+schemaType: Organization
+schemaName:
+schemaAuthor:
+schemaAuthorTwitter:
+schemaAuthorLinkedIn:
+schemaAuthorGitHub: ""
+schemaLocale: en-US
+themeColor: "#3ac58d"
+landscapePhotoWidths:
+  - 900
+  - 800
+  - 700
+  - 600
+  - 500
+portraitPhotoWidths:
+  - 800
+  - 700
+  - 600
+  - 500
+lqipWidth: 20x
+smallLimit: "320"
+imageResponsive: true
+imageConvertTo: webp
+imageImageSizes:
+  - "480"
+  - "720"
+  - "1080"
+  - "1280"
+  - "1600"
+  - "2048"
+singleSize: false
+imageAddClass: img-fluid lazyload blur-up
+defaultImage: default-image.png
+fillImage: 1280x720 Center
+alert: false
+alertDismissable: true
+contactLink: contact
+copyright:
+footerLogo: images/site-navigation/logo.png
+footerContact:
+  topTitle: Započnimo saradnju
+  title: Povežite se s nama!
+  button: Stupite u kontakt
+fabformURL: "https://fabform.io/f/JpTXRUa"
+googleAnalytics: YOUR GOOGLE ANALYTICS CODE
+logo: images/site-navigation/logo.png
+address:
+  address: "25101 Sombor, Ognjena Price 29A"
+  email: office@amvi-group.com
+  openingHours: >
+    Ponedeljak - Petak:
+    8 - 15h
+    Subota:
+    10 - 14h
+  phone: +381 69 220 66 31, direktor Vladimir Radosavljević, dipl.ing.el.
+map:
+  APIkey: YOUR GOOGLE MAP API
+  latitude: "23.7783741"
+  longitude: "90.3746808"
+  pinImage: images/pin.png
+social:
+  - icon: fa-facebook-official
+    url: "https://www.facebook.com/"
+    weight: 1
+  - icon: fa-linkedin-square
+    url: "https://www.linkedin.com/"
+    weight: 2
+  - icon: fa-pinterest-square
+    url: "https://www.pinterest.com/"
+    weight: 3
+  - icon: fa-twitter-square
+    url: "https://twitter.com/"
+    weight: 4
+_template: parameters_template

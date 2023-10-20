@@ -1,0 +1,62 @@
+# In the Name of God, the Originator the Creative
+# TODO: use semantic names for data fields
+---
+enable: true
+topTitle: Deskripcija
+title: >
+  ## Sekcija
+
+  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore
+
+
+  Magna aliquyam erat, sed diam voluptua. At vero eos accusam justo.
+tab1Name: Usluge
+tab2Name: Produkti
+tab1Target: education
+tab2Target: experience
+
+education:
+  - content: >
+      #### Usluga 1
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt
+    image: /images/certificates/question.png
+    url: /
+  - content: >
+      #### Usluga 2
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt
+    image: /images/certificates/question.png
+    url: /
+  - content: >
+      #### Usluga 3
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt
+    image: /images/certificates/question.png
+    url: /
+  - content: >
+      #### Usluga 4
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt
+    image: /images/certificates/question.png
+    url: /
+
+experience:
+  - content: >
+      #### Produkt 1
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt
+    image: /images/certificates/question.png
+    url: https://trustseal.enamad.ir/?id=288479&Code=O8micNNDSNWcTh9xIOhQ
+  - content: >
+      #### Produkt 2
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt
+    image: /images/certificates/question.png
+    url: https://trustseal.enamad.ir/?id=288479&Code=O8micNNDSNWcTh9xIOhQ
+  - content: >
+      #### Produkt 3
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt
+    image: /images/certificates/question.png
+    url: https://trustseal.enamad.ir/?id=288479&Code=O8micNNDSNWcTh9xIOhQ

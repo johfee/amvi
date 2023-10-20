@@ -1,0 +1,10 @@
+enable: true
+topTitle: Dobro došli!
+content: >
+  # AMVI Group - DOO Sombor
+
+  je dinamična firma koja se bavi različitim poslovima, sa sedištem u Somboru.
+buttonName: Kontaktirajte nas
+buttonURL: contact
+image: images/hero/heropic.jpg
+_template: hero_template

@@ -1,0 +1,19 @@
+enable: true
+title: >
+  ## Naša priča
+
+  Ova kompanija osnovana je sa ciljem pružanja visokokvalitetnih proizvoda svojim klijentima.
+content: >
+  ### Fokusiranje na Klijente i Tehnička Unapređenja
+
+  Naša firma je posvećena ispunjavanju potreba klijenata i kontinuiranom unapređenju svojih usluga. 
+
+
+  Nakon strukturnih promena u poslovanju, posebna pažnja je posvećena tehničkim rešenjima u oblasti industrije, pronalaženju adekvatne opreme u skladu sa zahtevima i potrebama potencijalnih kupaca.
+
+button1Name: Kontaktirajte nas
+button2Name: Naši produkti
+button1Target: contact
+button2Target: product
+image: images/about/walnuttree.jpg
+_template: about_template
